@@ -1,0 +1,15 @@
+.Backg{
+    background: navy;
+}
+
+.Title{
+    font-style: italic;
+    color: orange;
+    text-align: center;
+}
+
+.Buttons{
+    text-align: center;
+    font-style: italic;
+    color : white;
+}
